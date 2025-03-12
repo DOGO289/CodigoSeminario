@@ -1,4 +1,0 @@
-nombre="Diego"
-edad=21
-
-print ("Mi nombre es: ",nombre,"Mi edad es: ",edad)
